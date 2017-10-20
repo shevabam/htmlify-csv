@@ -1,0 +1,26 @@
+{
+  "name": "htmlify-csv",
+  "version": "1.0.0",
+  "description": "Convert CSV file to HTML table",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shevabam/htmlify-csv"
+  },
+  "keywords": [
+    "csv",
+    "html",
+    "table"
+  ],
+  "author": "ShevAbam",
+  "bugs": {
+    "url": "https://github.com/shevabam/htmlify-csv/issues"
+  },
+  "homepage": "https://github.com/shevabam/htmlify-csv",
+  "main": "htmlify-csv.js",
+  "license": "MIT",
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "caporal": "^0.7.0",
+    "opn": "^5.1.0"
+  }
+}
