@@ -3,7 +3,7 @@
 var http = require('http');
 var path = require('path');
 var fs = require('fs');
-var parse = require('babyparse');
+var parse = require('papaparse');
 
 const app = require('caporal');
 const opn = require('opn');
