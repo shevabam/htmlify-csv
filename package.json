@@ -19,7 +19,7 @@
   "main": "htmlify-csv.js",
   "license": "MIT",
   "dependencies": {
-    "babyparse": "^0.4.6",
+    "papaparse": "^4.6.2",
     "caporal": "^0.7.0",
     "opn": "^5.1.0"
   }
