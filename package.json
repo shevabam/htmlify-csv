@@ -1,6 +1,6 @@
 {
   "name": "htmlify-csv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert CSV file to HTML table",
   "repository": {
     "type": "git",
@@ -19,8 +19,8 @@
   "main": "htmlify-csv.js",
   "license": "MIT",
   "dependencies": {
-    "papaparse": "^4.6.2",
-    "caporal": "^0.7.0",
-    "opn": "^5.1.0"
+    "papaparse": "^5.3.0",
+    "caporal": "^1.4.0",
+    "opn": "^5.5.0"
   }
 }
