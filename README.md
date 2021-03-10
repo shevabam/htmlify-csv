@@ -67,4 +67,4 @@ node htmlify-csv --help
 * [jQuery](https://jquery.com/)
 * [tablesorter](https://mottie.github.io/tablesorter/docs/)
 * [Caporal.js](https://github.com/mattallty/Caporal.js)
-* [babyparse](https://www.npmjs.com/package/babyparse)
+* [papaparse](https://www.npmjs.com/package/papaparse)
