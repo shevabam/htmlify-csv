@@ -16,7 +16,7 @@ const config = {
 };
 
 app
-    .version('1.0.1')
+    .version('1.0.3')
     .description('htmlify-csv')
     .command('convert', 'Convert CSV file to HTML table')
     .argument('<file>', 'Input file (CSV) to render in HTML')
